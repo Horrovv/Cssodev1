@@ -1,0 +1,17 @@
+/* index.html Arka plan rengi ayarladığım kod */
+body {background-color:rgb(red, green, blue);
+}
+/* index.html center kısmında kenarları ayarladığım kod */
+.firstcenter {
+    border-style: double;    
+}
+/* hakkımda.html 2.center kısmında kenarları ayarladığım kod */
+.secondcenter {
+    border-style:groove;
+    background-color:cornsilk ;
+}
+/* hakkımda.html 3.center kısmında kenarları ayarladığım kod */
+.thirdcenter {
+    border-style:groove;
+    background-color:lavenderblush;
+}
